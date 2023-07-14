@@ -1,7 +1,7 @@
 library reactive_touch_spin;
 
 import 'package:flutter/material.dart';
-import 'package:flutter_touch_spin/flutter_touch_spin.dart';
+import 'package:flutter_touch_spin_2/flutter_touch_spin_2.dart';
 import 'package:intl/intl.dart';
 import 'package:reactive_forms/reactive_forms.dart';
 

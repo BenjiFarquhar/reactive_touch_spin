@@ -13,10 +13,7 @@ dependencies:
     sdk: flutter
   reactive_forms: ^16.0.1
   intl: ^0.18.1
-  flutter_touch_spin:
-    git:
-      url: https://github.com/BenjiFarquhar/flutter_touch_spin.git
-      ref: master
+  flutter_touch_spin_2: ^0.0.2
 
 dev_dependencies:
   flutter_test:

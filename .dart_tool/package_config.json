@@ -56,8 +56,8 @@
       "languageVersion": "3.0"
     },
     {
-      "name": "flutter_touch_spin",
-      "rootUri": "file:///Users/benjaminfarquhar/.pub-cache/git/flutter_touch_spin-bbc2bdd987449989881d601eef756c8966d73e60/",
+      "name": "flutter_touch_spin_2",
+      "rootUri": "file:///Users/benjaminfarquhar/.pub-cache/hosted/pub.dev/flutter_touch_spin_2-0.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -66,12 +66,6 @@
       "rootUri": "file:///Users/benjaminfarquhar/.pub-cache/hosted/pub.dev/intl-0.18.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
-    },
-    {
-      "name": "js",
-      "rootUri": "file:///Users/benjaminfarquhar/.pub-cache/hosted/pub.dev/js-0.6.7",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
     },
     {
       "name": "lints",
@@ -158,13 +152,19 @@
       "languageVersion": "2.14"
     },
     {
+      "name": "web",
+      "rootUri": "file:///Users/benjaminfarquhar/.pub-cache/hosted/pub.dev/web-0.1.4-beta",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
       "name": "reactive_touch_spin",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2023-07-13T05:44:23.466018Z",
+  "generated": "2023-07-14T20:48:24.643894Z",
   "generator": "pub",
-  "generatorVersion": "3.1.0-163.1.beta"
+  "generatorVersion": "3.1.0-262.1.beta"
 }
