@@ -1,6 +1,6 @@
 name: reactive_touch_spin
 description: Wrapper around flutter_touch_spin to use with reactive_forms
-version: 0.8.2
+version: 0.8.3
 publish_to: none
 
 environment:
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  reactive_forms: ^17.0.1
+  reactive_forms: ^18.0.0
   intl: ^0.20.2
   flutter_touch_spin_2:
     git:
